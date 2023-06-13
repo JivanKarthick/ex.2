@@ -16,7 +16,6 @@ The outputs of Combinational Logic Circuits are only determined by the logical f
 ![image](https://github.com/rvinifa/ex.2/assets/133735746/949815d3-0912-49c7-81c0-eea1c148d48e)
 
 The result is that combinational logic circuits have no feedback, and any changes to the signals being applied to their inputs will immediately have an effect at the output. In other words, in a Combinational Logic Circuit, the output is dependant at all times on the combination of its inputs. Thus, a combinational circuit is memoryless.
-
 ## Procedure:
 1.	Type the program in Quartus software.
 2.	Compile and run the program.
